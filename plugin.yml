@@ -1,0 +1,9 @@
+name: PrivateDeathMessage
+main: a4.papers.privatedeath.message.Main
+version: 2.0.1
+author: A4_Papers
+website: http://dev.bukkit.org/bukkit-plugins/privatedeath/
+commands:
+    pdm:
+        description: /pdm <Command>
+        usage: /pdm
